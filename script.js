@@ -150,7 +150,7 @@ const data = {
 
       ["电器设备", `<a href="切换指南.pdf" target="_blank">Open PDF Guide</a>`],
       ["空调调节",`<a href="雫空调.pdf" target="_blank">Open PDF Guide</a>` ],
-      ["热水温度", "屋内有一个热水控制面板，安装在洗衣机后面的墙上。<br><br><b>请注意：</b><br><br>◆ 如果误设为 <b>60℃</b>，热水可能无法正常流出，请将温度调低。<br>◆ 如果水不够热或没有变热，请确认设备是否已开启（<b>ON</b>）。<br>◆ 若一段时间未使用，设备可能会自动关闭。<br><br><img src=' hot-water-panel.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
+      ["热水温度", "屋内有一个热水控制面板，安装在洗衣机后面的墙上。<br><br><b>请注意：</b><br><br>◆ 如果误设为 <b>60℃</b>，热水可能无法正常流出，请将温度调低。<br>◆ 如果水不够热或没有变热，请确认设备是否已开启（<b>ON</b>）。<br>◆ 若一段时间未使用，设备可能会自动关闭。<br><br><img src='hot-water-panel.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["咖啡机", "按开按钮。<br><br><img src='咖啡机.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["如何丢垃圾", "请将可燃垃圾、罐子/瓶子分类放入有标签的垃圾桶。如果垃圾桶满了，请将垃圾取出，放在房子前门外面，并联系工作人员前来收取。<br><br><img src='garbage.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["其他注意事项", "◆ <b>做饭时请打开抽油烟机，以免油烟触发火灾报警器，并防止气味残留在屋内。<br><img src='range-hood.png' style='width:100%; max-width:320px; border-radius:10px;'><br><br>◆ <b>如果您带有小孩同行，请注意楼梯安全。<br><br>◆ <b>严禁打开二楼走廊的门。"],
