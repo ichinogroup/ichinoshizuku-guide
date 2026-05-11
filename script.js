@@ -16,7 +16,7 @@ const data = {
 
       ["Electrical Equipment", `<a href="switch-guide.pdf" target="_blank">Open PDF Guide</a>`],
       ["Air Conditioner Remote", `<a href="shizuku-airconditioner-remote.pdf" target="_blank">Open PDF Guide</a>`],
-      ["Hot Water Panel", "There is only hot water control panels in the house, mounted on the wall behind the washing machine.<br><br><b>Important notes:</b><br><br>◆ If the temperature is accidentally set to <b>60°C</b>, water may stop flowing properly.<br>◆ If the water is not getting warm, please check whether the unit is turned <b>ON</b>.<br>◆ The system may turn itself off automatically after a period of inactivity.<br><br><img src='hot-water-panel.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
+      ["Hot Water Panel", "There is only hot water control panels in the house, mounted on the wall behind the washing machine.<br><br><b>Important notes:</b><br><br>◆ If the temperature is accidentally set to <b>60°C</b>, water may stop flowing properly.<br>◆ If the water is not getting warm, please check whether the unit is turned <b>ON</b>.<br>◆ The system may turn itself off automatically after a period of inactivity.<br><br><img src='shizuku-hot-water-panel.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["Coffee Machine", "Press the ON button to start.<br><br><img src='coffeemachine.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["Trash Disposal", "Please separate domestic waste and cans/bottles into labeled bins.<br>If the bin is full, remove the garbage from the bin, place it outside the front door, and contact the staff for collection.<br><br><img src='garbage.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["Other Notes", "◆ <b>Please turn on the range hood when cooking to prevent cooking smoke from triggering the fire alarm and causing odors to linger in the house.<br><img src='range-hood.png' style='width:100%; max-width:320px; border-radius:10px;'><br><br>◆ <b>Please be careful with the stairs if you are traveling with small children.<br><br>◆ <b>Do not open the door in the second-floor hallway under any circumstances."],
@@ -85,7 +85,7 @@ const data = {
        いきなり暖房30度にしたら、エアコンが作動出来ませんので、25度ぐらいをすすめて、以後1時間ごと1度でアップするようにお願いいたします。`
        ],
       
-      ["給湯温度", "家の中にお湯の操作パネルは、洗濯機の後ろの壁に1つだけ設置されています。<br><br><b>ご注意：</b><br><br>◆ 誤って <b>60℃</b> に設定すると、お湯が正常に出なくなることがあります。温度を下げてください。<br>◆ お湯がぬるい、または温かくならない場合は、電源が <b>ON</b> になっているかご確認ください。<br>◆ しばらく使用しないと、自動的に電源が切れることがあります。<br><br><img src='hot-water-panel.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
+      ["給湯温度", "家の中にお湯の操作パネルは、洗濯機の後ろの壁に1つだけ設置されています。<br><br><b>ご注意：</b><br><br>◆ 誤って <b>60℃</b> に設定すると、お湯が正常に出なくなることがあります。温度を下げてください。<br>◆ お湯がぬるい、または温かくならない場合は、電源が <b>ON</b> になっているかご確認ください。<br>◆ しばらく使用しないと、自動的に電源が切れることがあります。<br><br><img src='shizuku-hot-water-panel.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["コーヒーマシン", "電源ボタンを押してください。<br><br><img src='コーヒーメーカー.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["ゴミ捨て方", "燃えるゴミ、缶・瓶類は指定のラベル付きゴミ箱に分別してください。ゴミ箱がいっぱいになった場合は、ゴミを取り出して玄関の外に置き、回収スタッフに連絡してください。<br><br><img src='garbage.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["その他注意", "◆ <b>料理をする際は換気扇（レンジフード）を必ずつけてください。料理の煙が火災報知器を作動させたり、家の中に臭いが染み付いたりするのを防ぐためです。<br><img src='range-hood.png' style='width:100%; max-width:320px; border-radius:10px;'><br><br>◆ <b>小さなお子様連れの場合は、階段に十分ご注意ください。<br><br>◆ <b>2階の廊下にあるドアは絶対に開けないでください。"],
@@ -150,7 +150,7 @@ const data = {
 
       ["电器设备", `<a href="切换指南.pdf" target="_blank">Open PDF Guide</a>`],
       ["空调调节",`<a href="雫空调.pdf" target="_blank">Open PDF Guide</a>` ],
-      ["热水温度", "屋内有一个热水控制面板，安装在洗衣机后面的墙上。<br><br><b>请注意：</b><br><br>◆ 如果误设为 <b>60℃</b>，热水可能无法正常流出，请将温度调低。<br>◆ 如果水不够热或没有变热，请确认设备是否已开启（<b>ON</b>）。<br>◆ 若一段时间未使用，设备可能会自动关闭。<br><br><img src='hot-water-panel.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
+      ["热水温度", "屋内有一个热水控制面板，安装在洗衣机后面的墙上。<br><br><b>请注意：</b><br><br>◆ 如果误设为 <b>60℃</b>，热水可能无法正常流出，请将温度调低。<br>◆ 如果水不够热或没有变热，请确认设备是否已开启（<b>ON</b>）。<br>◆ 若一段时间未使用，设备可能会自动关闭。<br><br><img src='shizuku-hot-water-panel.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["咖啡机", "按开按钮。<br><br><img src='咖啡机.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["如何丢垃圾", "请将可燃垃圾、罐子/瓶子分类放入有标签的垃圾桶。如果垃圾桶满了，请将垃圾取出，放在房子前门外面，并联系工作人员前来收取。<br><br><img src='garbage.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["其他注意事项", "◆ <b>做饭时请打开抽油烟机，以免油烟触发火灾报警器，并防止气味残留在屋内。<br><img src='range-hood.png' style='width:100%; max-width:320px; border-radius:10px;'><br><br>◆ <b>如果您带有小孩同行，请注意楼梯安全。<br><br>◆ <b>严禁打开二楼走廊的门。"],
