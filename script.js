@@ -15,7 +15,7 @@ const data = {
       ],
 
       ["Electrical Equipment", `<a href="switch-guide.pdf" target="_blank">Open PDF Guide</a>`],
-      ["Air Conditioner Remote", `<a href="shizukuairconditionerremote.pdf" target="_blank">Open PDF Guide</a>`],
+      ["Air Conditioner Remote", `<a href="shizuku-airconditioner-remote.pdf" target="_blank">Open PDF Guide</a>`],
       ["Hot Water Panel", "There is only hot water control panels in the house, mounted on the wall behind the washing machine.<br><br><b>Important notes:</b><br><br>◆ If the temperature is accidentally set to <b>60°C</b>, water may stop flowing properly.<br>◆ If the water is not getting warm, please check whether the unit is turned <b>ON</b>.<br>◆ The system may turn itself off automatically after a period of inactivity.<br><br><img src='hot-water-panel.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["Coffee Machine", "Press the ON button to start.<br><br><img src='coffeemachine.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
       ["Trash Disposal", "Please separate domestic waste and cans/bottles into labeled bins.<br>If the bin is full, remove the garbage from the bin, place it outside the front door, and contact the staff for collection.<br><br><img src='garbage.png' style='width:100%; max-width:320px; border-radius:10px;'>"],
