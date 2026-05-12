@@ -33,7 +33,7 @@ body {
 /* Welcome Screen */
 .welcome-screen {
   background: linear-gradient(rgba(62,48,37,0.35), rgba(62,48,37,0.35)),
-              url("japan-bg.png") center/cover no-repeat;
+              url("assets/images/japan-bg.png") center/cover no-repeat;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
