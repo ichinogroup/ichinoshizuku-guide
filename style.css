@@ -92,10 +92,13 @@ body {
 
 /* Main Content */
 .main-content {
-  background: url("japan-bg.png") center/cover fixed no-repeat;
+  background: linear-gradient(rgba(62,48,37,0.35), rgba(62,48,37,0.35)),
+              url("assets/images/japan-bg.png") center/cover no-repeat;
   min-height: 100vh;
-  padding: 50px 20px;
-  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40px 20px;
 }
 
 .main-content::before {
