@@ -76,7 +76,7 @@ const data = {
         "入室前",
         `入室前に靴をお脱ぎください。<br>
          畳を保護するため、スーツケースの車輪カバーをご使用ください。<br><br>
-         <img src='assets/images/tatami-cover.jpg' style='width:100%; max-width:320px; border-radius:10px;'>`
+         `
       ],
 
       [
@@ -144,7 +144,7 @@ const data = {
         "进入房屋前",
         `进入房间前请脱鞋。<br>
          为了保护榻榻米，请使用行李箱轮套。<br><br>
-         <img src='assets/images/tatami-cover.jpg' style='width:100%; max-width:320px; border-radius:10px;'>`
+         `
       ],
 
       ["电器设备", `<a href="assets/pdf/切换指南.pdf" target="_blank">Open PDF Guide</a>`],
