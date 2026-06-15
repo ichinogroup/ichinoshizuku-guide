@@ -10,8 +10,7 @@ const data = {
       [
         "Before Entering The House",
         `Please remove your shoes before entering.<br>
-         Use the suitcase wheel covers to protect the tatami floor.<br><br>
-         <img src='assets/images/tatami-cover.jpg' style='width:100%; max-width:320px; border-radius:10px;'>`
+         Use the suitcase wheel covers to protect the tatami floor.<br><br>`
       ],
 
       ["Electrical Equipment", `<a href="assets/pdf/shizuku-switch-guide.pdf" target="_blank">Open PDF Guide</a>`],
