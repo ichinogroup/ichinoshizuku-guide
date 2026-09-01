@@ -78,7 +78,9 @@ const data = {
          畳を保護するため、スーツケースの車輪カバーをご使用ください。<br><br>
          `
       ],
-
+      
+      ["Electrical Equipment", `<a href="assets/pdf/shizuku-switch-guide.pdf" target="_blank">Open PDF Guide</a>`],
+      
       [
         "エアコン", `冷房24°C、暖房26°C推奨。<br>
        いきなり暖房30度にしたら、エアコンが作動出来ませんので、25度ぐらいをすすめて、以後1時間ごと1度でアップするようにお願いいたします。`
