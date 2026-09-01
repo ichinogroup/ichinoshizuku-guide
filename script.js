@@ -79,7 +79,7 @@ const data = {
          `
       ],
       
-      ["Electrical Equipment", `<a href="assets/pdf/shizuku-switch-guide.pdf" target="_blank">Open PDF Guide</a>`],
+      ["スイッチ", `<a href="assets/pdf/shizuku-switch-guide.pdf" target="_blank">Open PDF Guide</a>`],
       
       [
         "エアコン", `冷房24°C、暖房26°C推奨。<br>
